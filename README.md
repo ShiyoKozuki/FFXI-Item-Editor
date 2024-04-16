@@ -1,5 +1,5 @@
 Requires Velyn's DAT <-> JSON tool for full functionality.
-I have provided my JSON files of my dats. These are not 1:1 retail, use at your own risk, they are just for reference.
+I have provided my JSON files of my DATs. These are not 1:1 retail, use at your own risk, they are just for reference.
 
 Not fully compatible with LSB/ASB. Use at your own risk.
 A fully functional LSB version will be created at a later date.
