@@ -10,7 +10,7 @@
 Requires a folder with .JSON files for DATs:
 armor.json | armor2.json | items.json | items2.json | food.json | weapons.json
 
-Requires Velyn's DAT <-> JSON tool for full functionality.
+Requires Velyn's DAT <-> JSON tool for full functionality. I have included their compiled version with an example.
 I have provided my JSON files of my DATs. These are not 1:1 retail, use at your own risk, they are just for reference.
 
 Not fully compatible with LSB/ASB. Use at your own risk.
