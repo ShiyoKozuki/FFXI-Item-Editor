@@ -1,3 +1,6 @@
+Requires a folder with .JSON files for DATs:
+armor | armor2 | items | items2 | food | weapons
+
 Requires Velyn's DAT <-> JSON tool for full functionality.
 I have provided my JSON files of my DATs. These are not 1:1 retail, use at your own risk, they are just for reference.
 
