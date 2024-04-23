@@ -1,0 +1,3 @@
+shift + right click - > open powershell here
+
+./item2json.exe 72.DAT 73.DAT armor_retail.json
