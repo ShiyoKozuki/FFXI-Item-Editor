@@ -1,1 +1,1 @@
-C:\Server and Notepad Files\FFXI\Topaz\Moos Local\sql
+C:\Users\Admin\Documents\GitHub\topaz\sql
